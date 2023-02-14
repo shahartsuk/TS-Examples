@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/underscore": "^1.11.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
